@@ -12,7 +12,7 @@
 header {
     width: 100%;
     height: 100vh;
-    background: url('../images/bachhe_ka_muh.png'), url('https://i.imgur.com/Js9hxIH.jpg');
+    background: url('../images/bachhe_ka_muh.png'), url('../images/bg1.jpeg');
     background-size: 50% 100%, cover;
     background-position: right, center;
     background-repeat: no-repeat, no-repeat;
